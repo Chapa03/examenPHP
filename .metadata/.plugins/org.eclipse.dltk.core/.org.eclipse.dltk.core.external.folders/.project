@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.dltk.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link2</name>
+			<type>2</type>
+			<location>/Applications/Eclipse.app/Contents/MacOS/D::/eclipse/workspacePHP/.metadata/.plugins/org.eclipse.php.core/__language__/d1252ce7</location>
+		</link>
+		<link>
+			<name>.link4</name>
+			<type>2</type>
+			<location>/Users/chapa/Desktop/examenPHP/workspacePHP/.metadata/.plugins/org.eclipse.php.core/__language__/7a79f5ed</location>
+		</link>
+	</linkedResources>
+</projectDescription>
